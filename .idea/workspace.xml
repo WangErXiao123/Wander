@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9b02e4a-539c-463d-9150-b479d89ebd30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Fiction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/school/spiders/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/school/spiders/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/school/spiders/scholar_crawler.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wfsj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All_data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../All_data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meinv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../meinv/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meinv/meinv/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meinv/meinv/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meinv/meinv/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meinv/meinv/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meinv/meinv/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meinv/meinv/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meinv/meinv/spiders/jp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meinv/meinv/spiders/jp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../school/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../school/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/school/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../school/school/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/school/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../school/school/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/school/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../school/school/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/school/spiders/bd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../school/school/spiders/bd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/school/spiders/qh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../school/school/spiders/qh.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhihuuser/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhihuuser/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zhihuuser/pipelines.py" />
+        <option value="$PROJECT_DIR$/zhihuuser/items.py" />
+        <option value="$PROJECT_DIR$/zhihuuser/settings.py" />
+        <option value="$PROJECT_DIR$/zhihuuser/spiders/zhihu.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-83" />
+    <option name="y" value="185" />
+    <option name="width" value="1038" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhihuuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhihuuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhihuuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b02e4a-539c-463d-9150-b479d89ebd30" name="Default Changelist" comment="" />
+      <created>1578276968452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578276968452</updated>
+      <workItem from="1578276969900" duration="9967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10341151" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zhihuuser/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihuuser/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
