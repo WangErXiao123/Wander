@@ -24,6 +24,8 @@ class ZhihuSpider(Spider):
         item = UserItem()
 
         for field in item.fields:
+
+
             if field in result.keys():
                 item[field] = result.get(field)
         yield item
